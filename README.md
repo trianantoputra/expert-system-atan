@@ -23,10 +23,12 @@ What things you need to install the software
 ### Running the tests
 
 * open XAMPP, run Apache.
-* open url in the browser "localhost/{folder name}" (or 127.0.0.1), use one of the following:
+* open url in the browser "localhost/{folder name}" (or 127.0.0.1), use **one** of the following:
 ```
 localhost/expert-system-atan
+
 localhost:8080/expert-system-atan // if manually used port 8080
+
 127.0.0.1/expert-system-atan
 ```
 
