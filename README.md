@@ -1,7 +1,6 @@
 # Expert System
 
-Expert system for detecting digestive disease.
-This repository is archived from 6th semester on expert system course, Sriwijaya University.
+Expert system for detecting digestive disease. This repository is archived from the 6th-semester final exam on the expert system course, Sriwijaya University.
 
 ## Team members:
 
@@ -11,7 +10,7 @@ This repository is archived from 6th semester on expert system course, Sriwijaya
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. The system is made with [CodeIgniter](https://codeigniter.com/)
 
 ### Prerequisites
 
@@ -47,3 +46,6 @@ the systems will give the percentage of likely the patient has the disease.
 <p align="center">
   <img src="2-output.png" alt="output" width="738">
 </p>
+
+## Reference
+* Pengembangan sistem pakar mendeteksi penyakit pencernaan menggunakan metode Naive Bayes berbasis website, [Imam Soleh Ma'rifati, 2018](https://github.com/trianantoputra/expert-system-atan/blob/master/paper.pdf)
